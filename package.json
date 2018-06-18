@@ -1,0 +1,14 @@
+{
+  "name": "node-sequence-diagrams",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "erukiti <erukiti@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.3.3",
+    "@types/puppeteer": "^1.3.4"
+  }
+}

@@ -5,6 +5,8 @@ node-sequence-diagrams write file from [bramp/js-sequence-diagrams: Draws simple
 ## Install
 
 ```sh
+$ npm i node-sequence-diagramgs
+or
 $ yarn add node-sequence-diagrams
 ```
 
@@ -33,6 +35,17 @@ main()
 ```
 
 ## License
+
+```
+
+/** js sequence diagrams 2.0.1
+ *  https://bramp.github.io/js-sequence-diagrams/
+ *  (c) 2012-2017 Andrew Brampton (bramp.net)
+ *  @license Simplified BSD license.
+ */
+```
+
+
 
 ```
 Copyright 2018 (c) SASAKI Shunsuke <erukiti@gmail.com>
